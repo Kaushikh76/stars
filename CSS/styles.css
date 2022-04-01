@@ -15,7 +15,24 @@
 .heading {
   position: fixed;
   text-align: center;
-  top: 30%;
+  color: white;
+  width: 100%;
+  padding: 5px;
+  font-size: x-large;
+
+}
+
+.head2 {
+  position: fixed;
+  text-align: center;
+  color: #f1c0e8;
+  width: 100%;
+  font-size: 140%;
+}
+.song {
+  position: fixed;
+  text-align: center;
+  top: 85%;
   color: white;
   width: 100%;
   padding: 20px;
